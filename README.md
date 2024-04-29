@@ -6,12 +6,12 @@ cd game
 python3 main.py
 ```
 
-# App Project - Obtener la gráfica de la Población de un País
+# App Project - Obtener la Gráfica de la Población de un País
 
-´´´sh
+```sh
 git clone
 cd app
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-´´´
+```
